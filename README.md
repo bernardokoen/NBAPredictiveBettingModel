@@ -1,5 +1,4 @@
 # predictive_betting_model
-
 This project is intended to predict NBA point totals as they relate to the Vegas Spread. 
 
 I worked on this project for a few weeks after my initial semester of coding in December of 2019.
